@@ -1,5 +1,5 @@
 # Notesappupdated
-Deployed at: https://codewithshauryanoteapp.herokuapp.com/
+Deployed at: http://codewithshaurya.me/notesapp/?
 
 This is My NotesApp which i created using pure javascrip and bootstrap.I used concept of localStorage and sessionStorage to store Notes in User browser.
 The localStorage and sessionStorage properties allow to save key/value pairs in a web browser.
